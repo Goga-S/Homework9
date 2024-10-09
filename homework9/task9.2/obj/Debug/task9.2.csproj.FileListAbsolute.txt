@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\Homeworks\Homework9\homework9\task9.2\bin\Debug\task9.2.exe.config
+C:\Users\user\Desktop\Homeworks\Homework9\homework9\task9.2\bin\Debug\task9.2.exe
+C:\Users\user\Desktop\Homeworks\Homework9\homework9\task9.2\bin\Debug\task9.2.pdb
+C:\Users\user\Desktop\Homeworks\Homework9\homework9\task9.2\obj\Debug\task9.2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Homeworks\Homework9\homework9\task9.2\obj\Debug\task9.2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Homeworks\Homework9\homework9\task9.2\obj\Debug\task9.2.exe
+C:\Users\user\Desktop\Homeworks\Homework9\homework9\task9.2\obj\Debug\task9.2.pdb
